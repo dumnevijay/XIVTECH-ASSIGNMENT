@@ -200,3 +200,5 @@ kubectl apply -f argocd-application.yaml
 ## Video Demonstration
 
 See the `demo/` directory for a video walkthrough of the setup and deployment process.
+
+Watch our video walkthrough of the setup and deployment process: [YouTube](https://youtu.be/Xm3-s8dHOtY)
